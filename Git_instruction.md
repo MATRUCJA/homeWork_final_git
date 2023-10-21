@@ -11,9 +11,10 @@ git add
 ```sh
 git commit -m "Massage"
 ```
-
+показать коммиты
+```sh
 git log
-
+```
 git log --oneline
 
 git checkout
