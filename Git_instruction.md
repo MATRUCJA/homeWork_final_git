@@ -19,4 +19,9 @@ git log
 ```sh
 git checkout
 ```
+отображает состояние рабочего каталога и раздела проиндексированных файлов
+```sh
 git status
+```
+
+Полный список инструкций к Git можно прочитать [тут](https://github.com/cyberspacedk/Git-commands)
