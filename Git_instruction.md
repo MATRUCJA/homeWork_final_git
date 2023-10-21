@@ -15,8 +15,8 @@ git commit -m "Massage"
 ```sh
 git log
 ```
-git log --oneline
-
+переключение на коммит
+```sh
 git checkout
-
+```
 git status
